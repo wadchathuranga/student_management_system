@@ -2,7 +2,9 @@
  crud system visual studio C#
  
  1.start the xampp/wampp server
+ 
  2.import the database to phpmyadmin localhost server
+ 
  3.add MySql.Data.DLL reference file
  
  # project is ready for futher development as you wish
