@@ -1,0 +1,30 @@
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\bin\Debug\data save in database with image.exe.config
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\bin\Debug\data save in database with image.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\bin\Debug\data save in database with image.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data save in database with image.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data save in database with image.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data save in database with image.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data save in database with image.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image (not work)\data save in database with image\bin\Debug\data save in database with image.exe.config
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image (not work)\data save in database with image\obj\Debug\data save in database with image.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image (not work)\data save in database with image\obj\Debug\data save in database with image.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\bin\Debug\MySql.Data.DLL
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.admindashboard.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.login.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.register.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.SRM_System.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.userdashboard.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.MyProfile.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\bin\Debug\data save in database with image.exe.config
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data save in database with image.exe
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data save in database with image.pdb
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data save in database with image.csprojResolveAssemblyReference.cache
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.admindashboard.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.login.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.MyProfile.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.Properties.Resources.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.register.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.SRM_System.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data_save_in_database_with_image.userdashboard.resources
+E:\My_Projects\C#\data save in database with image\data save in database with image\obj\Debug\data save in database with image.csproj.GenerateResource.Cache
