@@ -7,7 +7,7 @@
  
  3.add MySql.Data.DLL reference file
  
- # project is ready for futher development as you wish
+ # Now project is ready for the futher development as you wish
  
  
  Notice:
