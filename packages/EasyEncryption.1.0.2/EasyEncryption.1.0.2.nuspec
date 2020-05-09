@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>EasyEncryption</id>
+    <version>1.0.2</version>
+    <title>EasyEncryption</title>
+    <authors>JULIK</authors>
+    <owners>JULIK</owners>
+    <projectUrl>https://github.com/polischuk/EasyEncryption/wiki/Usage-wiki</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/easyencryption/1.0.2/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Several encryption algorithms implemented in this library such as: AES, DES, AesThenHmac, MD5, SHA1, SHA256</description>
+    <summary>Algorithms in library: AES, DES, AesThenHmac, MD5, SHA1, SHA256</summary>
+    <releaseNotes>Added SHA1 and SHA256</releaseNotes>
+    <copyright>Artem Polischuk</copyright>
+    <tags>DES AES AESThenHmac MD5 crypto encryption SHA SHA1 SHA256</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
